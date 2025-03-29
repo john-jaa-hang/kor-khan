@@ -1292,7 +1292,7 @@ def main():
     # 설정
     config = {
         # 파일 경로에 r 접두사 사용 (Windows 경로 문제 방지)
-        'data_path': r'기사 데이터 파일 경로',
+        'data_path': r'C:\Users\갱보\Desktop\갱보\2025\1-2025\종프\모델 학습\dataset\기사 데이터\complete_test_stratified_utf8.csv',
         'results_dir': 'results',
         
         'max_sentences': 50,         # 문서당 최대 문장 수
